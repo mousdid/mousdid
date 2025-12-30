@@ -10,22 +10,21 @@
 
 ## 🚀 Featured Experience 
 
-### ⚡ Reinforcement Learning & Optimization (Energy Systems)
+### Reinforcement Learning & Optimization (Energy Systems)
 **Computational Scientist Intern | Illinois Institute of Technology (Mar 2025 – Dec 2025)**  
 Repo: https://github.com/mousdid/microgrid_optimization  
-- Trained Reinforcement Learning (RL) with stochastic variance constraints to boost microgrid resilience under uncertain events (outages) and cut operating cost by 90%  
-- Modeled urban microgrids in HOMER Pro; built PINN physics-based surrogate model to speed RL policy eval  
-- Stress-tested with Design of Experiments (DOE), showing superior recovery vs rule-based control  
+- Reduced microgrid costs by 90% by training risk-aware Reinforcement Learning AI agent to optimize energy dispatch during unexpected power outages 
+- Developed PINN surrogate models using 4 parallel CPU environments to accelerate stochastic simulations and enable large-scale resilience stress testing   
 
-### 🏭 Industrial Engineering & Process Improvement / Automation
+### Industrial Engineering & Process Improvement / Automation
 **Mechanical Engineer Intern | Kael Engineering & Gascogne Group (May 2024 – Aug 2024)**  
-- Developed via DMAIC framework a LiDAR + 3D-image computer vision system integrating wood mechanical properties, significantly reducing inspection time by 80%  
-- Interfaced cross-functionally with PLCs to automate data acquisition and defect detection driving 5× throughput  
+- Engineered a LiDAR + 3D computer vision digital twin to model wood mechanical properties, reducing quality inspection time by 80%
+- Interfaced cross-functionally with PLCs to automate data acquisition, driving a 5x throughput increase via the DMAIC framework  
 
 **Industrial Engineer Intern | Ficosa (June 2023 – July 2023)**  
 - Cut new cable-line cycle time by 15% via root-cause analysis and ERP BOM reducing efficiency losses  
 
-### 🔥 Multiphysics Modeling / CFD / FEA (Research)
+### Multiphysics Modeling / CFD / FEA (Research)
 **R&D Mechanical Engineer Intern | EIRLab Research Laboratory (Sep 2023 – May 2024)**  
 Paper: https://drive.google.com/file/d/14-Pbpc9331o4KAUlvPAVe291NP-svRau/view?usp=sharing  
 - Modeled atmospheric-reentry thermal-protection materials with coupled heat transfer at 2000K and thermal decomposition using CAD coating regions + adaptive meshing; V&V against experiments showed 2% error  
@@ -40,21 +39,20 @@ Paper: https://drive.google.com/file/d/1zmdM2uVcwCtNmrC3ni5Q4bcjbAzocKsm/view?us
 
 ## 🧪 Projects 
 
-### 🌡️ CFD / Heat Transfer / HVAC
+### CFD / Heat Transfer / HVAC
 **HVAC Airflow & Placement Optimization**  
 Link: https://drive.google.com/file/d/1AOJINDFzA8KqqtNf3VNq9ZwbkVbtHdYQ/view?usp=sharing  
 - Created CAD geometries and simulation-ready meshes in ANSYS using AutoCAD-compatible drafting workflows; ran two-phase CFD with k-omega SST turbulence model  
 - Optimized vent placement and airflow rates running CFD simulations via iterative A/B testing to improve contaminant removal and recirculation efficiency  
 
 **HVAC Particle Filtration System Design**  
-- Designed and tested a 12 kV cylindrical electromagnetic HVAC with fan-assisted flow and SPS30 sensing, removing 90% PM2.5/PM4 via Arduino-validated data  
-Link: REPLACE_WITH_LINK  
+- Designed and tested a 12 kV cylindrical electromagnetic HVAC with fan-assisted flow and SPS30 sensing, removing 90% PM2.5/PM4 via Arduino-validated data   
 
 **Heat-Transfer CFD Modeling**  
 Repo: https://github.com/mousdid/Advection  
 - Simulated water heating in a resistive heater using CFD schemes in C++, analyzing CFL stability  
 
-### 🧮 High-Performance Computing (MPI / OpenMP / AVX / OpenCL)
+### High-Performance Computing (MPI / OpenMP / AVX / OpenCL)
 **HPC Wave Simulation**  
 Repo: https://github.com/mousdid/HPC-advection-MPI  
 - Simulated wave propagation on a periodic domain with MPI-parallel advection solver in C, running 4× faster with 6 processes  
@@ -63,12 +61,12 @@ Repo: https://github.com/mousdid/HPC-advection-MPI
 Link: https://drive.google.com/file/d/1Xq8rwXs4bpP3d__3Ia1qUiIZBbtkvSa5/view?usp=sharing  
 - Optimized Conway’s Game of Life in C using OpenMP (CPU), AVX vectorization, and OpenCL (GPU), achieving near-linear speedup up to 48 threads  
 
-### 🎥 Deep Learning / Vision
+### Deep Learning / Vision
 **Deep Learning for Visual Speech Recognition**  
 Repo: https://github.com/mousdid/lipreading  
 - Achieved 70% accuracy with a real-time lip-reading system trained on more than 2 million frames using SOTA deep learning and a webcam user interface  
 
-### 🤖 NLP / RAG / LLMs
+### NLP / RAG / LLMs
 **NLP for Health (Open Avenues Build Project)**  
 Repo: https://github.com/mousdid/open_avenues_build_medical_nlp  
 - Built an end-to-end cloud-native machine learning pipeline for radiology report segmentation, reaching 99% extraction accuracy and reducing manual processing time by 40%  
