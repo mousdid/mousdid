@@ -11,13 +11,13 @@
 ## 🚀 Featured Experience 
 
 ### Reinforcement Learning & Optimization (Energy Systems)
-**Computational Scientist Intern | Illinois Institute of Technology (Mar 2025 – Dec 2025)**  
+**R&D Computational Scientist | Illinois Institute of Technology (Mar 2025 – Dec 2025)**  
 Repo: https://github.com/mousdid/microgrid_optimization  
 - Reduced microgrid costs by 90% by training risk-aware Reinforcement Learning AI agent to optimize energy dispatch during unexpected power outages 
 - Developed PINN surrogate models using 4 parallel CPU environments to accelerate stochastic simulations and enable large-scale resilience stress testing   
 
 ### Industrial Engineering & Process Improvement / Automation
-**Mechanical Engineer Intern | Kael Engineering & Gascogne Group (May 2024 – Aug 2024)**  
+**Manufacturing Engineer Intern | Kael Engineering & Gascogne Group (May 2024 – Aug 2024)**  
 - Engineered a LiDAR + 3D computer vision digital twin to model wood mechanical properties, reducing quality inspection time by 80%
 - Interfaced cross-functionally with PLCs to automate data acquisition, driving a 5x throughput increase via the DMAIC framework  
 
@@ -79,15 +79,16 @@ Repo: https://github.com/mousdid/ByteForce
 
 
 ## 🎓 Education
-- **Illinois Institute of Technology (Chicago)** — M.S. in Applied Mathematics (Data Science & Optimization), GPA 3.9/4.0 (Dean's List)  
-- **Bordeaux Institute of Technology (France)** — M.S in Mechanical Engineering (CFD & High-Performance Computing), Rank 11/95  
+- **Illinois Institute of Technology (Chicago)** — M.S. in Computer Science (Data Science & Optimization), GPA 3.9/4.0 (Dean's List)  
+- **Bordeaux Institute of Technology (France)** — M.S in Mechanical Engineering (Applied Mathematics & High-Performance Computing)
+- **Bordeaux Institute of Technology (France)** — B.S in Mechanical Engineering (Fluid & Solid Mechanics), Rank 11/95 
 
 
 ---
 
 ## 🛠️ Technical Stack
 **Programming:** Python, Fortran, SQL, Bash, C/C++, R, Matlab, JavaScript, HTML, CSS  
-**Simulation:** ANSYS Fluent, STAR-CCM+, Abaqus, OpenFOAM, COMSOL Multiphysics  
+**Simulation:** ANSYS, Abaqus, STAR-CCM+, OpenFOAM, COMSOL Multiphysics  
 **HPC:** MPI, OpenMP, OpenCL, Distributed Computing, GPU Computing  
 **Embedded/Automation:** Arduino, Sensor Integration, LiDAR Systems, Industrial Cameras, PLC  
 **Optimization:** DOE, A/B Testing, Gurobi, Pyomo, Combinatorial Optimization, Time Series Forecasting  
