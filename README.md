@@ -13,24 +13,27 @@
 ### Reinforcement Learning & Optimization (Energy Systems)
 **R&D Computational Scientist | Illinois Institute of Technology (Mar 2025 – Dec 2025)**  
 Repo: https://github.com/mousdid/microgrid_optimization  
-- Reduced microgrid costs by 90% by training risk-aware Reinforcement Learning AI agent to optimize energy dispatch during unexpected power outages 
-- Developed PINN surrogate models using 4 parallel CPU environments to accelerate stochastic simulations and enable large-scale resilience stress testing   
+- Reduced microgrid costs 9x by training risk-aware Reinforcement Learning AI agent to optimize energy dispatch during unexpected power outages 
+- Developed surrogate model (PINN) to accelerate stochastic simulations and enable large-scale resilience stress testing   
 
-### Industrial Engineering & Process Improvement / Automation
-**Manufacturing Engineer Intern | Kael Engineering & Gascogne Group (May 2024 – Aug 2024)**  
+### Industrial Engineering & Process Improvement / Automation & Digital Twin
+**Mechanical Engineer Intern | Kael Engineering & Gascogne Group (May 2024 – Aug 2024)**  
 - Engineered a LiDAR + 3D computer vision digital twin to model wood mechanical properties, reducing quality inspection time by 80%
 - Interfaced cross-functionally with PLCs to automate data acquisition, driving a 5x throughput increase via the DMAIC framework  
 
-**Industrial Engineer Intern | Ficosa (June 2023 – July 2023)**  
-- Cut new cable-line cycle time by 15% via root-cause analysis and ERP BOM reducing efficiency losses  
+**Mechanical Engineer Intern | Ficosa (June 2023 – July 2023)**  
+- Supported NPI launch of a new automotive cable line by partnering with the prototype engineer and process
+engineering team to align BOM/drawings and support handoff into operator process documentation
+- Cut new cable-line cycle time by 15% via root-cause analysis and ERP BOM reducing efficiency losses
 
 ### Multiphysics Modeling / CFD / FEA (Research)
-**R&D Mechanical Engineer Intern | EIRLab Research Laboratory (Sep 2023 – May 2024)**  
+**Graduate R&D Mechanical Engineer | EIRLab Research Laboratory (Sep 2023 – May 2024)**  
 Paper: https://drive.google.com/file/d/14-Pbpc9331o4KAUlvPAVe291NP-svRau/view?usp=sharing  
-- Modeled atmospheric-reentry thermal-protection materials with coupled heat transfer at 2000K and thermal decomposition using CAD coating regions + adaptive meshing; V&V against experiments showed 2% error  
+Repo: https://github.com/mousdid/Thermal_Protection_Pyrolysis_Model
+- Modeled atmospheric-reentry thermal-protection materials with coupled heat transfer and material decomposition at 2000K using CAD coating regions + adaptive meshing; V&V against experiments showed 2% error  
 - Implemented high-performance Fortran FEA solver using sparse data structures to accelerate convergence improving computational efficiency  
 
-**R&D Mechanical Engineer Intern | EIRLab Research Laboratory (Oct 2022 – May 2023)**  
+**Graduate R&D Mechanical Engineer | EIRLab Research Laboratory (Oct 2022 – May 2023)**  
 Paper: https://drive.google.com/file/d/1zmdM2uVcwCtNmrC3ni5Q4bcjbAzocKsm/view?usp=sharing  
 - Improved wind-turbine array efficiency using biomimetic layouts and parametric 3D-CAD models in Onshape/SolidWorks workflows; fabricated 3D-printed, GD&T-compliant prototypes  
 - Conducted Fortran CFD simulations on multiple layouts and validated performance leading to optimal design  
@@ -69,7 +72,7 @@ Repo: https://github.com/mousdid/lipreading
 ### NLP / RAG / LLMs
 **NLP for Health (Open Avenues Build Project)**  
 Repo: https://github.com/mousdid/open_avenues_build_medical_nlp  
-- Built an end-to-end cloud-native machine learning pipeline for radiology report segmentation, reaching 99% extraction accuracy and reducing manual processing time by 40%  
+- Built and Dockerized an end-to-end cloud-native machine learning pipeline for radiology report segmentation, reaching 99% extraction accuracy and reducing manual processing time by 40%  
 
 **International AI Hackathon (Supported by the European Patent Office)**  
 Repo: https://github.com/mousdid/ByteForce  
@@ -79,7 +82,7 @@ Repo: https://github.com/mousdid/ByteForce
 
 
 ## 🎓 Education
-- **Illinois Institute of Technology (Chicago)** — M.S. in Computer Science (Data Science & Optimization), GPA 3.9/4.0 (Dean's List)  
+- **Illinois Institute of Technology (Chicago)** — M.S. in Computational Science (Data Science & Operations Research), GPA 3.9/4.0 (Dean's List)  
 - **Bordeaux Institute of Technology (France)** — M.S in Mechanical Engineering (Applied Mathematics & High-Performance Computing)
 - **Bordeaux Institute of Technology (France)** — B.S in Mechanical Engineering (Fluid & Solid Mechanics), Rank 11/95 
 
@@ -88,12 +91,12 @@ Repo: https://github.com/mousdid/ByteForce
 
 ## 🛠️ Technical Stack
 **Programming:** Python, Fortran, SQL, Bash, C/C++, R, Matlab, JavaScript, HTML, CSS  
-**Simulation:** ANSYS, Abaqus, STAR-CCM+, OpenFOAM, COMSOL Multiphysics  
+**Simulation:** ANSYS, Abaqus, OpenFOAM, COMSOL Multiphysics  
 **HPC:** MPI, OpenMP, OpenCL, Distributed Computing, GPU Computing  
 **Embedded/Automation:** Arduino, Sensor Integration, LiDAR Systems, Industrial Cameras, PLC  
 **Optimization:** DOE, A/B Testing, Gurobi, Pyomo, Combinatorial Optimization, Time Series Forecasting  
 **AI/ML:** Deep Learning, Reinforcement Learning, 2D & 3D Computer Vision, LLMs/vLLMs, RAG, NLP  
-**Frameworks/MLOps:** PyTorch, Tensorflow, NumPy, JAX, LangChain, Hugging Face Transformers, TensorRT, CUDA, OpenCV, FastAPI, Streamlit, Docker, Kubernetes, ONNX, CI/CD, AWS, GCP, Azure
+**Frameworks/MLOps:** PyTorch, Tensorflow, NumPy, JAX, TensorRT, CUDA, OpenCV, FastAPI, Streamlit, Docker, Kubernetes, ONNX, CI/CD, AWS, GCP, Azure
 
 ---
 
