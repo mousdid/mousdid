@@ -23,10 +23,13 @@ Repo: https://github.com/mousdid/microgrid_optimization
 
 
 ### Multiphysics Modeling / CFD / FEA (Research)
-**Graduate R&D Mechanical Engineer | EIRLab Research Laboratory (Oct 2022 – May 2024)**  
+**Graduate R&D Mechanical Engineer | EIRLab Research Laboratory (Oct 2022 – May 2024)** 
+
 Paper: https://drive.google.com/file/d/14-Pbpc9331o4KAUlvPAVe291NP-svRau/view?usp=sharing  
 Repo: https://github.com/mousdid/Thermal_Protection_Pyrolysis_Model
+
 Paper: https://drive.google.com/file/d/1zmdM2uVcwCtNmrC3ni5Q4bcjbAzocKsm/view?usp=sharing  
+
 Paper: https://drive.google.com/file/d/1AOJINDFzA8KqqtNf3VNq9ZwbkVbtHdYQ/view?usp=sharing 
 
 ---
