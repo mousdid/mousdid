@@ -11,7 +11,7 @@
 ## 🚀 Featured Experience 
 
 ### Energy Systems
-**R&D Computational Scientist | Illinois Institute of Technology (Mar 2025 – Dec 2025)**  
+**Research Engineer | Illinois Institute of Technology (Mar 2025 – Dec 2025)**  
 Repo: https://github.com/mousdid/microgrid_optimization  
 
 
@@ -21,13 +21,12 @@ Repo: https://github.com/mousdid/microgrid_optimization
 
 **Mechanical Engineer Intern | Ficosa (June 2023 – July 2023)**  
 
+
 ### Multiphysics Modeling / CFD / FEA (Research)
 **Graduate R&D Mechanical Engineer | EIRLab Research Laboratory (Oct 2022 – May 2024)**  
 Paper: https://drive.google.com/file/d/14-Pbpc9331o4KAUlvPAVe291NP-svRau/view?usp=sharing  
 Repo: https://github.com/mousdid/Thermal_Protection_Pyrolysis_Model
-
 Paper: https://drive.google.com/file/d/1zmdM2uVcwCtNmrC3ni5Q4bcjbAzocKsm/view?usp=sharing  
-
 Paper: https://drive.google.com/file/d/1AOJINDFzA8KqqtNf3VNq9ZwbkVbtHdYQ/view?usp=sharing 
 
 ---
@@ -45,7 +44,7 @@ Repo: https://github.com/mousdid/HPC-advection-MPI
 
 
 **HPC Conway’s Game of Life**  
-Link: https://drive.google.com/file/d/1Xq8rwXs4bpP3d__3Ia1qUiIZBbtkvSa5/view?usp=sharing  
+Paper: https://drive.google.com/file/d/1Xq8rwXs4bpP3d__3Ia1qUiIZBbtkvSa5/view?usp=sharing  
 
 
 ### Deep Learning / Vision
