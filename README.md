@@ -14,6 +14,8 @@
 **Research Engineer | Illinois Institute of Technology (Mar 2025 – Dec 2025)**  
 Repo: https://github.com/mousdid/microgrid_optimization
 
+Paper: https://drive.google.com/file/d/1hICUVUfjpQFaIdtnGAocz1twc7ByYYZv/view?usp=sharing
+
 ---
 
 ### Manufacturing & Digital Twins
