@@ -8,52 +8,64 @@
 
 ---
 
-## 🚀 Featured Experience 
+## 🚀 Featured Experience & Projects
 
 ### Energy Systems
 **Research Engineer | Illinois Institute of Technology (Mar 2025 – Dec 2025)**  
-Repo: https://github.com/mousdid/microgrid_optimization  
-
-
-### Manufacturing & Digital Twins
-**Mechanical Engineer Intern | Kael Engineering & Gascogne Group (May 2024 – Aug 2024)**  
-
-
-**Mechanical Engineer Intern | Ficosa (June 2023 – July 2023)**  
-
-
-### Multiphysics Modeling / CFD / FEA (Research)
-**Graduate R&D Mechanical Engineer | EIRLab Research Laboratory (Oct 2022 – May 2024)** 
-
-Paper: https://drive.google.com/file/d/14-Pbpc9331o4KAUlvPAVe291NP-svRau/view?usp=sharing  
-Repo: https://github.com/mousdid/Thermal_Protection_Pyrolysis_Model
-
-Paper: https://drive.google.com/file/d/1zmdM2uVcwCtNmrC3ni5Q4bcjbAzocKsm/view?usp=sharing  
-
-Paper: https://drive.google.com/file/d/1AOJINDFzA8KqqtNf3VNq9ZwbkVbtHdYQ/view?usp=sharing 
+Repo: https://github.com/mousdid/microgrid_optimization
 
 ---
 
-## 🧪 Projects 
+### Manufacturing & Digital Twins
+**Mechanical Engineer Intern | Kael Engineering & Gascogne Group (May 2024 – Aug 2024)** 
 
+Tools: 3D Computer Vision, Lidar, Industrial Camera, DMAIC,  REST APIs
 
-**Heat-Transfer CFD Modeling**  
+**Mechanical Engineer Intern | Ficosa (June 2023 – July 2023)**  
+
+Tools: Process Engineering, BOM, EOL, Root Cause Analysis
+
+---
+
+### Multiphysics Modeling / CFD / FEA (Research)
+
+**Graduate R&D Mechanical Engineer | EIRLab Research Laboratory (Oct 2022 – May 2024)** 
+
+1.Thermal Protection Material:
+
+Repo: https://github.com/mousdid/Thermal_Protection_Pyrolysis_Model
+
+Paper: https://drive.google.com/file/d/14-Pbpc9331o4KAUlvPAVe291NP-svRau/view?usp=sharing 
+
+2.VAWT Array Biomimcry:
+
+Paper: https://drive.google.com/file/d/1zmdM2uVcwCtNmrC3ni5Q4bcjbAzocKsm/view?usp=sharing 
+
+3.Vent Placement and Design:
+
+Paper: https://drive.google.com/file/d/1AOJINDFzA8KqqtNf3VNq9ZwbkVbtHdYQ/view?usp=sharing
+
+**Project: Heat-Transfer CFD Modeling**  
 Repo: https://github.com/mousdid/Advection  
 
+---
 
 ### High-Performance Computing (MPI / OpenMP / AVX / OpenCL)
-**HPC Wave Simulation**  
+
+**Project: HPC Wave Simulation**  
 Repo: https://github.com/mousdid/HPC-advection-MPI  
 
 
-**HPC Conway’s Game of Life**  
+**Project:  HPC Conway’s Game of Life**  
 Paper: https://drive.google.com/file/d/1Xq8rwXs4bpP3d__3Ia1qUiIZBbtkvSa5/view?usp=sharing  
 
+---
 
 ### Deep Learning / Vision
-**Deep Learning for Visual Speech Recognition**  
+**Project: Deep Learning for Visual Speech Recognition**  
 Repo: https://github.com/mousdid/lipreading  
  
+---
 
 ### NLP / RAG / LLMs
 **NLP for Health (Open Avenues Build Project)**  
