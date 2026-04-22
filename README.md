@@ -19,19 +19,19 @@ Paper: https://drive.google.com/file/d/1hICUVUfjpQFaIdtnGAocz1twc7ByYYZv/view?us
 ---
 
 ### Manufacturing & Digital Twins
-**Mechanical Engineer Intern | Kael Engineering & Gascogne Group (May 2024 – Aug 2024)** 
+**R&D Machine Learning Engineer Intern | Kael Engineering & Gascogne Group (May 2024 – Aug 2024)** 
 
 Tools: 3D Computer Vision, Lidar, Industrial Camera, DMAIC,  REST APIs
 
-**Mechanical Engineer Intern | Ficosa (June 2023 – July 2023)**  
+** Engineer Intern | Ficosa (June 2023 – July 2023)**  
 
 Tools: Process Engineering, BOM, EOL, Root Cause Analysis
 
 ---
 
-### Multiphysics Modeling / CFD / FEA (Research)
+### Scientific Computing (CFD / FEA)
 
-**Graduate R&D Mechanical Engineer | EIRLab Research Laboratory (Oct 2022 – May 2024)** 
+**Graduate Research Engineer | EIRLab Research Laboratory (Oct 2022 – May 2024)** 
 
 1.Thermal Protection Material:
 
@@ -63,7 +63,7 @@ Paper: https://drive.google.com/file/d/1Xq8rwXs4bpP3d__3Ia1qUiIZBbtkvSa5/view?us
 
 ---
 
-### Deep Learning / Vision
+### Deep Learning / Computer Vision
 **Project: Deep Learning for Visual Speech Recognition**  
 Repo: https://github.com/mousdid/lipreading  
  
