@@ -49,7 +49,9 @@ Paper: https://drive.google.com/file/d/1AOJINDFzA8KqqtNf3VNq9ZwbkVbtHdYQ/view?us
 
 4.Heat-Transfer CFD Modeling
 
-Repo: https://github.com/mousdid/Advection  
+Repo: https://github.com/mousdid/Advection 
+
+Paper: https://drive.google.com/drive/u/0/folders/1kNc1uTdrcpQsVXCi7JgUgOsBYWQn_VsK 
 
 ---
 
