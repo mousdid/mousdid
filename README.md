@@ -23,7 +23,7 @@ Paper: https://drive.google.com/file/d/1hICUVUfjpQFaIdtnGAocz1twc7ByYYZv/view?us
 
 Tools: 3D Computer Vision, Lidar, Industrial Camera, DMAIC,  REST APIs
 
-** Engineer Intern | Ficosa (June 2023 – July 2023)**  
+**Engineer Intern | Ficosa (June 2023 – July 2023)**  
 
 Tools: Process Engineering, BOM, EOL, Root Cause Analysis
 
@@ -47,7 +47,7 @@ Paper: https://drive.google.com/file/d/1zmdM2uVcwCtNmrC3ni5Q4bcjbAzocKsm/view?us
 
 Paper: https://drive.google.com/file/d/1AOJINDFzA8KqqtNf3VNq9ZwbkVbtHdYQ/view?usp=sharing
 
-**Project: Heat-Transfer CFD Modeling**  
+4.Heat-Transfer CFD Modeling
 Repo: https://github.com/mousdid/Advection  
 
 ---
